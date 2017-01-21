@@ -1,0 +1,7 @@
+﻿<Button xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		Name="anotherButton"
+		Content="Click me Second"
+		Width="200"
+		Height="100"
+		HorizontalAlignment="Center"
+		Background="LightGreen" />
